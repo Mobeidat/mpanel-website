@@ -5,7 +5,7 @@ const features = [
   {
     name: 'Simple analytics',
     description:
-      'Umami measures just the important metrics that you care about and everything is displayed on a single, easy to browse page.',
+      'Mpanel measures just the important metrics that you care about and everything is displayed on a single, easy to browse page.',
     image: '/images/feature-website-stats.png',
   },
   {
@@ -34,30 +34,30 @@ const features = [
   {
     name: 'Multi-language',
     description:
-      'Umami has been translated into many different languages by the very active open source community.',
+      'Mpanel has been translated into many different languages by the very active open source community.',
     image: '/images/feature-languages.png',
   },
   {
     name: 'Unlimited websites',
-    description: `Umami is able to track an unlimited number of websites from a single installation. You can even track subdomains and individual URLs.`,
+    description: `Mpanel is able to track an unlimited number of websites from a single installation. You can even track subdomains and individual URLs.`,
     image: '/images/feature-websites.png',
   },
   {
     name: 'Multiple accounts',
     description:
-      'Umami can be used to host data for friends or clients. Just create a separate account and they can start tracking their own websites on their own dashboard.',
+      'Mpanel can be used to host data for friends or clients. Just create a separate account and they can start tracking their own websites on their own dashboard.',
     image: '/images/feature-accounts.png',
   },
   {
     name: 'Mobile-friendly',
     description:
-      'The Umami interface has been optimized for mobile so you can view your stats from anywhere.',
+      'The Mpanel interface has been optimized for mobile so you can view your stats from anywhere.',
     image: '/images/feature-mobile.png',
   },
   {
     name: 'Bypass ad-blockers',
     description:
-      'Umami is hosted by you under your own domain so you can reliably avoid ad-blockers unlike Google Analytics.',
+      'Mpanel is hosted by you under your own domain so you can reliably avoid ad-blockers unlike Google Analytics.',
   },
   {
     name: 'Light-weight',
@@ -71,7 +71,7 @@ const features = [
   },
   {
     name: 'Dark mode',
-    description: 'Dark mode included. Choose your favorite theme for Umami.',
+    description: 'Dark mode included. Choose your favorite theme for Mpanel.',
     image: '/images/feature-dark-mode.png',
   },
 ];

@@ -8,14 +8,8 @@ export default function Intro() {
       <div className={styles.content}>
         <h1>Own your website analytics</h1>
         <h2>
-          <span>Umami is an </span>
-          <b>
-            <Link href="https://github.com/umami-software/umami">
-              <a target="_blank">open source</a>
-            </Link>
-          </b>
-          , <b>privacy-focused</b>
-          <div>alternative to Google Analytics</div>
+          <span>Take back control with Mpanel –</span>
+          <div>a powerful web analytics platform that gives you 100% data ownership.</div>
         </h2>
         <div className={styles.buttons}>
           <a href="/docs" className="button umami--click--get-started-button">

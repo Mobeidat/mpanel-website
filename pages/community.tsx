@@ -7,7 +7,7 @@ const CommunityPage: NextPage = () => {
       <header>
         <h1>Community</h1>
         <p>
-          Come join the Umami community of fellow developers, users and website owners.
+          Come join the Mpanel community of fellow developers, users and website owners.
           <br />
           Get help with issues, discuss ideas and share your feedback.
         </p>

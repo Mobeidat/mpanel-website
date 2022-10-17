@@ -16,12 +16,10 @@ const IndexPage: NextPage = () => {
       <Splash />
       <div className="container">
         <Statements />
-        <Stats />
       </div>
       <Splash />
       <div className="container">
         <GetStarted />
-        <NewsletterSignup />
       </div>
     </>
   );

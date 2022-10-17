@@ -12,8 +12,8 @@
 }
 
 .header svg {
-  width: 24px;
-  height: 24px;
+  width: 143px;
+  height: 34px;
 }
 
 .title {
@@ -25,10 +25,11 @@
 .links {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   gap: 48px;
   flex: 1;
   font-weight: 600;
+  margin-left: 50px;
 }
 
 .buttons {

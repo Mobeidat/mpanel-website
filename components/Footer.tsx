@@ -13,33 +13,6 @@ const data = [
       { text: 'Pricing', href: '/pricing' },
     ],
   },
-  {
-    title: 'Resources',
-    items: [
-      { text: 'Docs', href: '/docs' },
-      { text: 'Guides', href: '/docs/guides' },
-      { text: 'API Reference', href: '/docs/api' },
-      { text: 'Release Notes', href: 'https://github.com/umami-software/umami/releases' },
-    ],
-  },
-  {
-    title: 'Community',
-    items: [
-      { text: 'Get Involved', href: '/community' },
-      { text: 'GitHub', href: 'https://github.com/umami-software/umami' },
-      { text: 'Discord', href: 'https://discord.gg/4dz4zcXYrQ' },
-      { text: 'Twitter', href: 'https://twitter.com/umami_software' },
-    ],
-  },
-  {
-    title: 'Company',
-    items: [
-      { text: 'About', href: '/about' },
-      { text: 'Contact', href: '/contact' },
-      { text: 'Privacy', href: '/privacy' },
-      { text: 'Terms', href: '/terms' },
-    ],
-  },
 ];
 
 export default function Footer() {
@@ -67,7 +40,7 @@ export default function Footer() {
         </div>
         <SocialMedia />
         <div className={styles.copy}>
-          <div>&copy; 2022 Umami Software, Inc.</div>
+          <div>Built with love by MAF DL team 2022</div>
         </div>
       </div>
     </footer>
